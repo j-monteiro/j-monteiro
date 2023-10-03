@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Software Developer based in Vila Nova de Gaia, Portugal 🇵🇹.
+I'm a Software Developer based in Porto, Portugal 🇵🇹.
 
 Currently my main focus of expertise is the 💎 Ruby ecosystem.
 
